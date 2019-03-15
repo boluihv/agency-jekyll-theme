@@ -59,8 +59,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Başbağlar Mahallesi 
+  - line: 1410 Sok. No:13
+  - line: 24030 Merkez/Erzincan Merkez/Erzincan
 
 # Build settings
 markdown: kramdown
