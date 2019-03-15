@@ -870,6 +870,7 @@ body {
 
 .map {
     height: 500px;
+    padding: 0px 0;
 }
 
 @media(max-width:768px) {
