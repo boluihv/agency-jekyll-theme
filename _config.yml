@@ -11,9 +11,9 @@ google_api_key: AIzaSyCZHCDJgfaIVioMbqvAvKrUjTnBJBW0H2Q
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Hikmet Köksal
   pic: 1
-  position: Lead Designer
+  position: Kıdemli Eğitim Danışmanı
   social:
     - title: twitter
       url: #
@@ -22,9 +22,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Münür Kaya
   pic: 2
-  position: Lead Marketer
+  position: Müdür Yardımcısı
   social:
     - title: twitter
       url: #
@@ -33,9 +33,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Muhammed Emin Beytül
   pic: 3
-  position: Lead Developer
+  position: Halkla İlişkiler Sorumlusu
   social:
     - title: twitter
       url: #
@@ -47,15 +47,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
     url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
