@@ -1,19 +1,19 @@
-url: https://ihverzincan.github.io
-baseurl: '/agency-jekyll-theme/'
+url: https://boluyurt.github.io
+baseurl: '/'
 
 # Site settings
-title: İhlas Vakfı Özel Esentepe Erkek Öğrenci Yurdu
-email: bilgi@erzincanyurdu.com
-description: "İhlas Vakfı Erzincan Özel Erkek Öğrenci Yurdu"
+title: İhlas Vakfı Özel Bolu Yüksek Öğrenim Erkek Öğrenci Yurdu
+email: bilgi@boluyurt.com
+description: "İhlas Vakfı Bolu Özel Erkek Öğrenci Yurdu"
 
 # API settings
 google_api_key: AIzaSyCZHCDJgfaIVioMbqvAvKrUjTnBJBW0H2Q
 
 # Team names, titles and social links
 people:
-- name: Hikmet Köksal
+- name: Cihangir Abdullah Adak
   pic: 1
-  position: Kıdemli Eğitim Danışmanı
+  position: Yurt Müdürü
   social:
     - title: twitter
       url: #
@@ -22,9 +22,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Münür Kaya
+- name: Ahmet Faruk Arvas
   pic: 2
-  position: Müdür Yardımcısı
+  position: Kıdemli Eğitim Danışmanı
   social:
     - title: twitter
       url: #
@@ -33,9 +33,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Muhammed Emin Beytül
+- name: Mustafa Bal
   pic: 3
-  position: Halkla İlişkiler Sorumlusu
+  position: Müdür Yardımcısı
   social:
     - title: twitter
       url: #
