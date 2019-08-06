@@ -57,11 +57,12 @@ social:
   - title: github
     url: 
 
+Bahçelievler, Karanfil Sk., 14100 Bolu Merkez/Bolu
 # Postal address (add as many lines as necessary)
 address:
-  - line: Başbağlar Mahallesi 
-  - line: 1410 Sok. No:13
-  - line: 24030 Merkez/Erzincan Merkez/Erzincan
+  - line: Bahçelievler Mahallesi 
+  - line: Karanfil Sokak. No:54
+  - line: 14100 Bolu Merkez/Bolu
 
 # Build settings
 markdown: kramdown
